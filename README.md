@@ -1,2 +1,2 @@
 # FSDAIMLB
-# welcome to fsd session
+Welcome to FSD session
